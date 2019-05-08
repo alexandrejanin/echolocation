@@ -92,3 +92,8 @@ Conception de la forme de la prothese :
 
 On a plusieurs idées : on pourrait partir sur un arc de cercle avec une forme d'oeil, qu'on tiendrait avec la main dans lequel on cacherait l'Arduino et le sonar. On a aussi pensé à un bracelet qu'on porterait au poignet ou sur le bras, en forme de boîte simple.
 On a decidé de donner la perception de l'obstacle grâce à un vibreur : plus l'obstacle est proche, plus la fréquence de la vibration est rapide. (Programme [SonarVibration](http://wwww.github.com/alexandrejanin/echolocation/Programmes/SonarVibration) dans le dossier Programmes)
+
+
+## Le 18 Avril 2019:
+
+Passage au fablab et travail sur la réalisation de la prothese aprés avoir choisir les points d'inspiration de départ.
